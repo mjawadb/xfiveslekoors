@@ -19,7 +19,7 @@ const Hero = () => {
                 scrollPosition > 0 ?
                     <Fade top>
                         <div className={`${styles.paddingX} w-full absolute sm:top-[300px] top-[230px]`}>
-                            <div className={`w-full flex md:flex-row flex-col-reverse bg-secondary rounded-xl hero-card`}>
+                            <div className={`w-full flex md:flex-row flex-col-reverse bg-white rounded-xl hero-card`}>
                                 <div className={`${styles.paddingX} ${styles.paddingY} flex-1 font-poppins`}>
                                     <h1 className='font-bold text-primary sm:text-6xl text-4xl sm:text-left text-center'>Welcome To Our <br /> <span className='text-third'>Fun Page !</span></h1>
                                     <p className='leading-6 sm:pt-4 pt-2 text-dimPrimary2 sm:text-left text-center text-sm sm:text-[16px]'>Hi! So This is Our Website Class. Hope You guys Enjoy!</p>
