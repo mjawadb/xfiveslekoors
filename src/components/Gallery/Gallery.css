@@ -1,0 +1,25 @@
+.swiper-container-gallery {
+  width: 240px;
+  height: 320px;
+}
+
+.swiper-slide-gallery {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  border-radius: 18px;
+  font-size: 22px;
+  font-weight: bold;
+  color: #fff;
+}
+
+.swiper-slide-gallery:nth-child(1n) {
+  background-color: rgb(206, 17, 17);
+}
+
+@media only screen and (min-width: 600px) {
+    .swiper-container-gallery {
+        width: 360px;
+        height: 480px;
+      }
+} 

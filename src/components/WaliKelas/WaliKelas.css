@@ -1,0 +1,17 @@
+#animate {
+    opacity: 0;
+}
+
+.shadow-walikelas {
+    background-color: rgba(241, 237, 255, 0.15);
+    box-shadow: 10px 10px 50px rgba(241, 237, 255, .03),
+        -10px -10px 100px rgba(241, 237, 255, .03),
+        0 -30px 200px rgba(241, 237, 255, .03),
+        20px -50px 300px rgba(241, 237, 255, .03),
+        0 30px 20px rgba(241, 237, 255, .03),
+        -20px 50px 300px rgba(241, 237, 255, .03),
+        0 60px 3000px rgba(241, 237, 255, .03),
+        0 100px 10000px rgba(241, 237, 255, .03),
+        0 300px 1000000px rgba(241, 237, 255, .03),
+        0 -300px 1000000px rgba(241, 237, 255, .03)
+}
