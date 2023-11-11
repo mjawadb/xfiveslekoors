@@ -17,17 +17,17 @@ const MemorableMoment = () => {
             </div>
 
             <div>
-                <div className='flex justify-between sm:justify-around flex-wrap w-[410px] sm:w-full bg-dimPrimary1 pb-4'>
+                <div className='flex justify-between sm:justify-around flex-wrap w-[360px] sm:w-full bg-dimPrimary1 pb-4'>
                     {
                         momentData.map((moment, i) => {
                             if (i == 0) {
-                                return <MomentCard data={moment} w='w-[200px] sm:w-[610px]' />
+                                return <MomentCard data={moment} w='w-[175px] sm:w-[610px]' />
                             }
                             if (i == momentData.length - 1) {
-                                return <MomentCard data={moment} w='w-[200px] sm:w-[600px] xl:-mt-[230px]' />
+                                return <MomentCard data={moment} w='w-[175px] sm:w-[600px] xl:-mt-[230px]' />
                             }
                             else {
-                                return <MomentCard data={moment} w='w-[200px] sm:w-[300px] sm:h-[320px]' />
+                                return <MomentCard data={moment} w='w-[175px] sm:w-[300px] sm:h-[320px]' />
                             }
                         })
                     }

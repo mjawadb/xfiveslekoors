@@ -2,7 +2,7 @@ import React from 'react'
 
 const JadwalCard = (props) => {
     return (
-        <div className='bg-secondary rounded-xl box-shadow-jadwal my-4'>
+        <div className='bg-white rounded-xl box-shadow-jadwal my-4'>
             <div className='border-jadwal'>
                 <p className='text-center text-3xl font-bold text-white w-full bg-primary rounded-t-xl py-2'>{props.data.hari}</p>
             </div>
