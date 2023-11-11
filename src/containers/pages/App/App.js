@@ -43,8 +43,6 @@ function App() {
         <Jadwal />
       </div>
 
-      <hr className='border-1 border-primary'/>
-
       <div className={`bg-secondary w-full ${styles.paddingY}`}>
         <Motivasi />
       </div>
