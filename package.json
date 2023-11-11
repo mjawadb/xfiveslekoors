@@ -9,6 +9,7 @@
     "animejs": "^3.2.1",
     "aos": "^2.3.4",
     "framer-motion": "^10.16.4",
+    "gh-pages": "^6.0.0",
     "react": "^18.2.0",
     "react-backdrop-filter": "^2.1.0",
     "react-dom": "^18.2.0",
