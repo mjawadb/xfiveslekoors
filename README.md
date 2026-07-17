@@ -1,5 +1,7 @@
 # 🔥 X-Five Slekoors
 
+![Preview](preview.png)
+
 Website official buat X-Five Slekoors. Project ini dibikin full animasi biar UI-nya nggak kaku dan ngebosenin.
 
 ## Tech Stack
