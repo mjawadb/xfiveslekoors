@@ -16,4 +16,4 @@ Built within the React ecosystem, utilizing several libraries for styling and an
 - Swiper (for carousels)
 
 ## Fun Fact
-I built this project back when I was just starting 10th grade of high school.
+I built this project back when I was just starting 10th grade of high school :D
