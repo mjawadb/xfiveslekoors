@@ -15,17 +15,5 @@ Built within the React ecosystem, utilizing several libraries for styling and an
 - Framer Motion, Anime.js, AOS, & React Reveal (for animations)
 - Swiper (for carousels)
 
-## Running Locally
-If you want to clone and run it yourself:
-
-1. Make sure you have Node.js installed.
-2. Clone this repository.
-3. Run `npm install` in your terminal to fetch all dependencies.
-4. Run `npm start`.
-5. Open `http://localhost:3000` in your browser.
-
-## Build
-To build for production:
-```bash
-npm run build
-```
+## Fun Fact
+I built this project back when I was just starting 10th grade of high school.
